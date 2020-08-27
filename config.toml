@@ -1,0 +1,18 @@
+baseURL = "https://yaxun-yang.github.io"
+languageCode = "zh-cn"
+defaultcontentlanguage = "zh-cn"
+title = "阳某人每天都在干些啥？？？"
+theme = "strange-case"
+paginate = 5
+copyright = "yyx"
+
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+	series = "series"
+
+[Blackfriday]
+	hrefTargetBlank = true
+
+[Params]
+	Author = "yyx"
